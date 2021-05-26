@@ -4,7 +4,7 @@
 
 <h2>Fala DEV 👋</h2>
 
-Eu sou o Isaias, tenho 25 anos e moro em Salvador - BA, Brasil. Apaixonado pela tecnologia e claro pela automação, desenvolvimento front-end e back-end, inovação e possibilidades. 
+Eu sou o Isaias, tenho 25 anos, morando no estado da Bahia, Brasil. Apaixonado pela tecnologia e claro pela automação. No meu primeiro "Hello World" usando a linguagem C em uma sala de aula na faculdade, foi quando eu descobrir o universo das linguagens de programação. A partir desse momento busquei adquirir cada vez mais conhecimento e novos desafios. Hoje atuando como desenvolvedor júnior, busco ampliar meus conhecimentos sobre o desenvolvimento front-end e back-end, sempre aprendendo e me aprofundando para me tornar um DEV fullstack.
 
 - 🏢 Trabalhando como desenvolvedor Júnior
 - 💻 Aprendendo e me aprofundando em Angular, JS, TS, CSS e Java
