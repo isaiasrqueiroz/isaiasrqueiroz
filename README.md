@@ -40,11 +40,13 @@ Eu sou o Isaias, tenho 25 anos, morando no estado da Bahia, Brasil. Apaixonado p
   
   <br>
   
-  <a align="center" href="https://github.com/isaiasrqueiroz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasrqueiroz&layout=compact&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-  </a>
-  <a align="center" href="https://github.com/isaiasrqueiroz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaiasrqueiroz&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-  </a>
+  <div align="center">
+    <a align="center" href="https://github.com/isaiasrqueiroz">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasrqueiroz&layout=compact&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
+    </a>
+    <a align="center" href="https://github.com/isaiasrqueiroz">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaiasrqueiroz&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
+    </a>
+  </div>
   
 </details>
